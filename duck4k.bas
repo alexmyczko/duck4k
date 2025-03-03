@@ -53,7 +53,7 @@
 70 SCREEN 1:SCREEN 0:WIDTH 80,25:CLS :LOCATE 12,38,1,7,8:COLOR 9:PRINT "        ";
 84 LOCATE ,,0
 85 COLOR 7,0:CLS:SCREEN 1:SCREEN 0:WIDTH 80,25
-86 PRINT"tarzeau@space.ch of carrots 1999":PRINT"www.space.ch/scene/carrots":PRINT:PRINT "kebap for the people."
+86 PRINT"me@aiei.ch 1999":PRINT:PRINT "kebap for the people."
 87 N=1:GOSUB 900:SYSTEM
 89 WEND
 90 COLOR 7,0
